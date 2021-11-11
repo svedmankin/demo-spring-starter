@@ -1,0 +1,4 @@
+application:
+  hello-message: Hello web application!
+  other:
+    message: Some other message!
